@@ -69,7 +69,7 @@ Reference
 This reference shows which attributes you could use on BGText group instance to change its behavior. You don't need to add all the attributes, only those you want to setup.
 
 - `Text`
-    - **Description:** String literal or Python expression.
+    - **Description:** String literal or Python expression (when starting with `>` character).
     - **Type:** `String`
 
 - `Size`
