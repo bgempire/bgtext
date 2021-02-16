@@ -45,7 +45,7 @@ BGText tries to mix the pros and fix most of the cons on bitmap texts and dynami
 - Update texts without the need of constant processing with the message `UpdateText`.
 - `UpdateText` messages can update `All` texts or the ones with specific `Id` properties.
 
-BGText is compatible with both vanilla BGE and UPBGE. BGText uses the replace mesh functionality to switch between characters values.
+BGText is compatible with both vanilla BGE and UPBGE. BGText uses shape keys actions to switch between character values.
 
 How To Use
 ==========
